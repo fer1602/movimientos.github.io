@@ -15,7 +15,9 @@
     "respuesta": "Facturas, recibos, letras de cambio y pagarés",
     "incorrecta1": "Códigos bancarios",
     "incorrecta2": "Informes anuales de auditoría",
-    "incorrecta3": "Balances generales trimestrales"
+    "incorrecta3": "Balances generales trimestrales",
+ "imagen": "https://www.ceupe.com/images/easyblog_articles/3967/ejemplo-factura.jpg",
+    "objectFit": "contain"
   },
   {
     "categoria": "Rayado Diario",
