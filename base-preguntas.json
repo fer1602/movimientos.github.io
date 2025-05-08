@@ -1,0 +1,92 @@
+[
+  {
+    "categoria": "Concepto",
+    "pregunta": "¿Qué es un movimiento contable?",
+    "respuesta": "El registro de operaciones en orden progresivo con cargos, abonos y cuentas afectadas",
+    "incorrecta1": "Una transferencia entre bancos",
+    "incorrecta2": "Un resumen de ventas semanales",
+    "incorrecta3": "Una cuenta con saldo deudor",
+    "imagen": "https://www.serviciocontablenicaragua.com/wp-content/uploads/2022/06/estructura-de-la-cuenta-T.jpg",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Registro",
+    "pregunta": "¿Cuál es la fuente de información para el rayado de diario?",
+    "respuesta": "Facturas, recibos, letras de cambio y pagarés",
+    "incorrecta1": "Códigos bancarios",
+    "incorrecta2": "Informes anuales de auditoría",
+    "incorrecta3": "Balances generales trimestrales",
+    "imagen": "https://www.supercontable.com/images/upload/images/Subcontabilidad/diariogeneral1.png",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Rayado Diario",
+    "pregunta": "¿Cómo deben registrarse las operaciones en el rayado de diario?",
+    "respuesta": "Con claridad, en español y por orden progresivo de fechas",
+    "incorrecta1": "En inglés técnico sin orden",
+    "incorrecta2": "Solamente en hojas de cálculo",
+    "incorrecta3": "Con datos omitidos si no son relevantes",
+    "imagen": "https://www.ceupe.com/images/easyblog_articles/3967/ejemplo-factura.jpg",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Errores",
+    "pregunta": "¿Cómo se corrigen los errores en el rayado de diario?",
+    "respuesta": "Con un nuevo asiento relacionado, sin tachonear",
+    "incorrecta1": "Borrando el error directamente",
+    "incorrecta2": "Escribiendo encima del error",
+    "incorrecta3": "Tachando y corrigiendo en la misma línea",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5_M5rXXxQDbCtw97n_qRIz5XYmVu0prBx9w&s",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Finalidad",
+    "pregunta": "¿Cuál es la finalidad del rayado de diario?",
+    "respuesta": "Registrar ordenada y cronológicamente las operaciones para informar a los propietarios",
+    "incorrecta1": "Determinar el valor del inventario",
+    "incorrecta2": "Estimar impuestos anuales",
+    "incorrecta3": "Calcular la nómina de empleados",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRwM0g8qY5ERs7e9HbVmWmXugKq71uaJV__A&s",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Asiento",
+    "pregunta": "¿Cómo se llama el registro de cargos y abonos en una operación?",
+    "respuesta": "Asiento de diario",
+    "incorrecta1": "Nota de débito",
+    "incorrecta2": "Transacción de capital",
+    "incorrecta3": "Resumen mensual",
+    "imagen": "https://i.ytimg.com/vi/BNfu2whuHuM/maxresdefault.jpg",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Formato",
+    "pregunta": "¿Qué contiene el encabezado del rayado de diario?",
+    "respuesta": "Nombre de la empresa y folio progresivo de la página",
+    "incorrecta1": "Fecha de registro y tipo de cuenta",
+    "incorrecta2": "Saldo inicial del mes",
+    "incorrecta3": "Datos de clientes y proveedores",
+    "imagen": "https://i.ytimg.com/vi/BNfu2whuHuM/maxresdefault.jpg",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Contenido",
+    "pregunta": "¿Qué dato se anota en la columna de folio del mayor?",
+    "respuesta": "El número de folio de la cuenta en el libro mayor",
+    "incorrecta1": "El número del cliente",
+    "incorrecta2": "El total del mes",
+    "incorrecta3": "El número de asiento",
+    "imagen": "https://i.ytimg.com/vi/BNfu2whuHuM/maxresdefault.jpg",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Contenido",
+    "pregunta": "¿Dónde se anotan los nombres de las cuentas de cargo?",
+    "respuesta": "Debajo del número de asiento",
+    "incorrecta1": "En el margen superior derecho",
+    "incorrecta2": "Después de los abonos",
+    "incorrecta3": "Al final del diario",
+    "imagen": "https://i.ytimg.com/vi/BNfu2whuHuM/maxresdefault.jpg",
+    "objectFit": "contain"
+  }
+]
